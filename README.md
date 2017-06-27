@@ -13,3 +13,6 @@
 - flask 설치
 - python app.py 로 실행
 
+# 화폐 정보 조회 API
+
+- CoinMarketCap public API 이용 (https://coinmarketcap.com/api/)
